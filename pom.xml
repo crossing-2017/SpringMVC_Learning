@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>day01_01_start</module>
+        <module>day02_01_response</module>
+        <module>ssm</module>
     </modules>
 
 
